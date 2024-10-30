@@ -1,0 +1,1 @@
+:root{--index-progress-bg:#ededed;--index-progress-shadow:rgba(0,0,0,.25);--index-progress-value:#2170b0}.index-progress-bar{background-color:var(--index-progress-bg);border-radius:2px;box-shadow:0 2px 5px var(--index-progress-shadow) inset;width:300px}.index-progress-bar::-webkit-progress-value{background-color:var(--index-progress-value)}
